@@ -1,0 +1,21 @@
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.hr25 {
+  width: 25%;
+}
+
+.hr50 {
+  width: 50%;
+}
+
+.hrleft {
+  margin-left: 0;
+  margin-right: auto;
+}
+
